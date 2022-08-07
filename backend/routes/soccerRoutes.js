@@ -24,7 +24,7 @@ const routes = (app) => {
     //update specific player
     .put(updatePlayer)
 
-    //update specific player
+    //delete specific player
     .delete(deletePlayer);
 };
 
